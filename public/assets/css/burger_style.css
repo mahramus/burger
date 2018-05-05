@@ -1,11 +1,11 @@
 .main-text {
-    background-color: #fbefcc;
+    background-color: #fbceb1;
     margin-top: 20px;
     margin-bottom: 30px;
   }
   
   body {
-    background-color: #fbefcc;
+    background-color: #fbceb1;
   }
   
   ul {
@@ -21,7 +21,7 @@
   
   .devour-btn, 
   #submit-burger {
-    background-color: #e0876a;
+    background-color: #77CB74;
     border-color: #f9ccac;
   }
   
@@ -38,4 +38,8 @@
   
   #input-label {
     font-size: 24px;
+  }
+
+  img {
+    max-width: 200px;
   }
